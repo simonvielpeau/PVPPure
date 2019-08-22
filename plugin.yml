@@ -1,0 +1,9 @@
+name: PVPXONIS
+version: 1.0
+author: No0xi
+main: fr.noxi.Main
+commands:
+  setspawn:
+    description: Set le spawn
+    permission: admin.setspawn
+    permission-message: Tu n'a pas la permission
